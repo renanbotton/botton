@@ -1,8 +1,8 @@
 body{
-    background-color:rgb(26, 22, 247);
+    background-color:rgb(23, 19, 241);
     font-family: 'Lucida Sans';
     font-size: small;
-    color: #fdfdfd;
+    color: #f30707;
     text-align: center;
     display: inline;
     font-size: 14px;
@@ -10,7 +10,7 @@ body{
     h3{
     font-family: 'Lucida Sans';
     font-size: small;
-    color: #fdfdfd;
+    color: #000000;
     text-align: center;
     display: inline;
     font-size: 14px;
@@ -19,15 +19,15 @@ body{
     font-family: 'Lucida Sans';
     font-size: small;
     font-size: 12px;
-    background-color:rgb(66, 56, 10);
+    background-color:rgb(245, 0, 143);
     }
     .lista {
     font-family: 'Lucida Sans';
     font-size: small;
     text-align: left;
     font-size: 12px;
-    color:rgb(66, 56, 10);
+    color:rgb(238, 151, 223);
     }
     .itens {
-    background-color: rgb(211, 204, 174);
+    background-color: rgb(0, 255, 0);
     }
