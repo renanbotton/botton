@@ -10,7 +10,7 @@ body{
     h3{
     font-family: 'Lucida Sans';
     font-size: small;
-    color: #000000;
+    color: #670ba5d2;
     text-align: center;
     display: inline;
     font-size: 22px;
@@ -18,14 +18,14 @@ body{
     .linha {
     font-family: 'Lucida Sans';
     font-size: small;
-    font-size: 12px;
-    background-color:rgb(245, 0, 143);
+    font-size: 22px;
+    background-color:rgb(109, 15, 70);
     }
     .lista {
     font-family: 'Lucida Sans';
     font-size: small;
     text-align: left;
-    font-size: 12px;
+    font-size: 16px;
     color:rgb(0, 0, 0);
     }
     .itens {
